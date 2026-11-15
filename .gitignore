@@ -1,0 +1,19 @@
+# Local secrets and deployment configuration
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+/secrets/
+/deployment-local/
+/local.properties
+# Generated and local files
+.DS_Store
+.idea/
+.gradle/
+**/build/
+*.log
