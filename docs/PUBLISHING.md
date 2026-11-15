@@ -1,6 +1,6 @@
 # Distribution policy
 
-This repository is intended to become public. Include only public user documentation and approved release outputs.
+This repository is public. Include only public user documentation and approved release outputs.
 
 Allowed release assets: signed generic APKs, signed update manifests, checksums, and sanitized release notes.
 

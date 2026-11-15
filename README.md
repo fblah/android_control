@@ -2,7 +2,7 @@
 
 Distribution repository for a self-hosted Android remote-access app. Development is maintained separately.
 
-**Status:** a development build supports hub enrollment, phone-approved controller pairing, encrypted status, opt-in notifications, and user-selected file transfers; no APK has been published here. This repository is temporarily private and is intended for public distribution later.
+**Status:** a development build supports hub enrollment, phone-approved controller pairing, encrypted status, opt-in notifications, and user-selected file transfers; no APK has been published here. This public repository distributes generic APKs and user documentation.
 
 Release assets will include signed APKs, checksums, and signed update metadata. The APK will ship without server configuration; connect to your own hub using an expiring QR invitation and administrator approval.
 

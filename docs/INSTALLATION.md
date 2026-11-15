@@ -10,4 +10,4 @@ No installable release is available yet. These instructions describe the planned
 
 The app will check for updates, verify signed metadata and the APK, and offer installation. Standard Android installation may require confirmation. No GitHub access token should be entered into or bundled with the app.
 
-Anonymous downloads require this repository to be public. Until then, authenticated manual downloads are for development only.
+This repository is public so released assets can be downloaded without a GitHub token. Signed automatic update delivery still requires a published release and production signing setup.
