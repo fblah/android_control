@@ -18,6 +18,7 @@ Open **Location & history** in the browser sidebar.
 
 - **Locate phone** requests a location fix. Allow up to 40 seconds. The phone may fall back to a recent cached Android fix when GPS is unavailable; always check the timestamp and accuracy.
 - **Refresh history** reads saved locations, even while the phone is offline. The timeline and zoom controls let you inspect its movement route.
+- On hub **0.6.1-dev or newer**, **Open latest in Google Maps** opens the newest available fix. **Copy coordinates** copies its latitude/longitude. The timeline also has **Open selected point in Google Maps** for an older fix. Google receives coordinates when you open the link; the pin is a snapshot, not continuous tracking. Use Locate phone again for an updated fix. No new phone APK is needed for these buttons.
 - **Load map tiles** asks before contacting OpenStreetMap for roads and place names. The map provider can infer the geographic area you view. The route works without external tiles.
 - Administrators can **Clear older history**, keeping the last day, week, 30-day month or year, or deleting all history. Active tracking can add new points afterward.
 
